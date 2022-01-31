@@ -9,7 +9,7 @@
   "telegrambot"
   ],
   "website": "https://github.com/Vladyslavsavulyak/musica",
-  "success_url": "https://t.me/tlmusicdownloader_bot",
+  "success_url": "https://t.me/dfghvjsklsj_bot",
   "env": {
     "TOKEN": {
       "description": "Make a bot at BotFather http://telegram.dog/BotFather and get the token of your bot",
